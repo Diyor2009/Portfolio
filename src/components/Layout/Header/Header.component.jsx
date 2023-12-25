@@ -1,5 +1,5 @@
 import { HeaderWrapper, HeaderContainer } from "./Header.styles";
-import Logo from "../../UX/Logo/Logo.component";
+import Logo from "../../../UX/Logo/Logo.component";
 import Navbar from "../Navbar/Navbar.component";
 
 export default function Header() {

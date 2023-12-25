@@ -7,5 +7,6 @@ export const SkillsSectionWrapper = styled.section`
 `;
 
 export const SkillsSectionContainer = styled.div`
-  background-color: black;
+  background-color: white;
+  color: red;
 `;
